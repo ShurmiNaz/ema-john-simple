@@ -1,0 +1,20 @@
+.header {
+     height: 80px;
+     background-color: #1C2B35;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding-left: 112px;
+     padding-right: 112px;
+}
+
+.menu-ber a {
+     text-decoration: none;
+     color: #ffffff;
+     margin-left: 32px;
+     font-size: 17px;
+}
+
+.menu-ber a:hover {
+     background-color: rgb(189, 52, 52);
+}
